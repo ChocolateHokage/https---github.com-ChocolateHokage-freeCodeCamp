@@ -1,14 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+    "express": "^4.14.0"
 	},
+  "author": "Chocolate Hokage",
 	"main": "server.js",
 	"scripts": {
     "start": "node server.js"
 	},
 	"repository": {
-    "author": "Chocolate Hokage",
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
