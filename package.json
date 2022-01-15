@@ -4,11 +4,11 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-  "author": "Chocolate Hokage",
 	"scripts": {
-		"start": "node server.js"
+    "start": "node server.js"
 	},
 	"repository": {
+    "author": "Chocolate Hokage",
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
